@@ -22,7 +22,7 @@ for(auto i: dq)
 for(auto i: dq)
  cout<<i<<" ";
  cout<<"\n";
-
-return 0;
+cout<<dq.size();
+ return 0;
 
 }
